@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Nicky
 
 🌱 I’m currently learning State Management in Flutter\
-🔭 I’m currently working on PT.Arkatama Multi Solusindo
+🔭 I’m currently working on PT.Arkatama Multi Solusindo\
 🎯 Flutter Developer, Laravel Developer and Back-End Developer\
 🏠 Nganjuk, Indonesia
 <br>

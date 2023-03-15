@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/spring%20boot-6DB33F?logo=Spring%20Boot&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/Arduino-17949A?logo=arduino&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge">
 </div><br>
 

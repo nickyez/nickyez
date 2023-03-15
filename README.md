@@ -22,8 +22,8 @@
 
 ## :pushpin: Stats
 <div id="stats" align="center">
-<img height="160em"src="https://github-readme-stats.vercel.app/api?username=NickyErlanggaZ&show_icons=true&theme=onedark&hide_border=true">
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=NickyErlanggaZ&theme=onedark&hide_border=true">
+<img height="160em"src="https://github-readme-stats.vercel.app/api?username=nickyez&show_icons=true&theme=onedark&hide_border=true">
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=nickyez&theme=onedark&hide_border=true">
 </div><br>
 
 <h4 align="center"> 🤝 Connect with me </h4>
@@ -33,7 +33,7 @@
 </div>
 
 <!--
-**NickyErlanggaZ/NickyErlanggaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nickyez/nickyez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 # Hi 👋 I'm Nicky

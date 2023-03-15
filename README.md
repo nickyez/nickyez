@@ -10,6 +10,7 @@
 <div id="main-stack">
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/Laravel-F05340?logo=laravel&logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/CodeIgniter-E22C23?logo=codeigniter&logoColor=fff&style=for-the-badge">
 </div><br>
 
 ## :scroll: Other
